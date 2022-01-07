@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCiDqp+xOnB6v3Unc+Ym8S7hRv1hhBqI2wLms1iXqJhl0lJ+yrKpkQ6JkZwkgEUWHy2zmhdu8HeKQ7WTKyBCHQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Gateway\\Downloads\\NET\\ProjetoElevador\\ProjetoElevadorDocumentacao\\ProjetoElevadorDocumentacao.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
